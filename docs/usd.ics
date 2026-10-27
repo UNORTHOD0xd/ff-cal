@@ -86,7 +86,7 @@ DTSTAMP:20261029T123000Z
 DTSTART:20261029T123000Z
 DTEND:20261029T124500Z
 SUMMARY:🟠 USD Advance GDP Price Index q/q
-DESCRIPTION:Forecast: 3.5%\nPrevious: 6.2%\nImpact: Medium
+DESCRIPTION:Forecast: 3.3%\nPrevious: 6.2%\nImpact: Medium
 END:VEVENT
 BEGIN:VEVENT
 UID:20261029T123000Z-usd-unemployment-claims@ff-cal
